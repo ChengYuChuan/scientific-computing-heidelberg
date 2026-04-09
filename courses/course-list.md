@@ -1,6 +1,6 @@
 # 📋 Scientific Computing — Approved Course List
 
-> **Last updated:** 2025-04  
+> **Last updated:** 2025-04-09  
 > **Status legend:** ✅ Valid &nbsp;|&nbsp; ❌ Invalid &nbsp;|&nbsp; ❓ Unconfirmed  
 > **Semester:** WS = Winter Semester, SS = Summer Semester, `—` = both / unknown
 
@@ -13,7 +13,7 @@
 | 130000202127012 | GPU Computing | — | — | Vorlesung | Master | — |
 | 922338202305 | GPU Computing — Architecture + Programming | — | — | Vorlesung | Master | — |
 | — | Dynamical Systems Theory in ML & Data Science | — | — | Vorlesung | Master | — |
-| 11MINV0444 | Natural Language Processing with Transformers | — | — | Vorlesung | Master | [LSF](https://lsf.uni-heidelberg.de) |
+| 11MINV0444 | Natural Language Processing with Transformers | — | — | Vorlesung | Master | [Heico](https://ds.ifi.uni-heidelberg.de/teaching/nlp-using-transformers/) |
 | — | Quantum Computing and Quantum Information | — | — | Vorlesung | Master | — |
 
 ---
@@ -22,8 +22,8 @@
 
 | Course No. | Course Name | Professor | Semester | Type | Level | Links |
 |---|---|---|---|---|---|---|
-| 1300282207 | Computer Vision (MVSpec) | Rother, Carsten | WS | Vorlesung | Master | [LSF](https://lsf.uni-heidelberg.de) |
-| 1100144001 | Mathematical Machine Learning | Herzog, Roland; Müller, Georg | WS | Seminar | Master | [LSF](https://lsf.uni-heidelberg.de) |
+| 1300282207 | Computer Vision (MVSpec) | Rother, Carsten | WS | Vorlesung | Master | [Heico](https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/349277?$scrollTo=toc_overview) |
+| 1100144001 | Mathematical Machine Learning | Herzog, Roland; Müller, Georg | WS | Seminar | Master | [Heico](https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/361345?$scrollTo=toc_overview) |
 
 ---
 
@@ -83,9 +83,9 @@
 
 ## 📝 Notes & Known Issues
 
-- Course No. `11BMAV0464` appears twice in the original spreadsheet (Numerical Linear Algebra AND Funktionalanalysis). This may be a data entry error — see [Issue #X](../../issues) for tracking.
+- Course No. `11BMAV0464` appears twice in the original spreadsheet (Numerical Linear Algebra AND Funktionalanalysis). This may be a data entry error — see [Issue #X](https://github.com/ChengYuChuan/scientific-computing-heidelberg/issues) for tracking.
 - Several courses are missing professor names and LSF links. Contributions welcome.
 
 ---
 
-*To propose changes, open an [Issue](../../issues/new/choose) or submit a Pull Request.*
+*To propose changes, open an [Issue](https://github.com/ChengYuChuan/scientific-computing-heidelberg/issues) or submit a Pull Request.*

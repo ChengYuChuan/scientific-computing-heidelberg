@@ -25,7 +25,7 @@ The M.Sc. Scientific Computing program consists of courses drawn from three facu
 - **Faculty of Physics and Astronomy** — Application Area: Physics
 - **IWR / Interdisciplinary Center for Scientific Computing** — Simulation methods
 
-Official study regulations: [LSF / Heidelberg University Portal](https://lsf.uni-heidelberg.de)
+Official study regulations: [Heico](https://heico.uni-heidelberg.de/heiCO/)
 
 ---
 
@@ -52,5 +52,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. In short:
 
 | Date | Change | Contributor |
 |---|---|---|
-| 2025-04 | Initial course list created from program spreadsheet | @[your-github-handle] |
+| 2025-04 | Initial course list created from program spreadsheet | [ChengYuChuan](https://github.com/ChengYuChuan) |
 
