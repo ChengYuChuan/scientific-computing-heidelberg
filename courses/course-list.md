@@ -83,8 +83,7 @@
 
 ## 📝 Notes & Known Issues
 
-- Course No. `11BMAV0464` appears twice in the original spreadsheet (Numerical Linear Algebra AND Funktionalanalysis). This may be a data entry error — see [Issue #X](https://github.com/ChengYuChuan/scientific-computing-heidelberg/issues) for tracking.
-- Several courses are missing professor names and LSF links. Contributions welcome.
+- Course No. `11BMAV0464` appears twice in the original spreadsheet (Numerical Linear Algebra AND Funktionalanalysis).
 
 ---
 
