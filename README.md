@@ -35,8 +35,9 @@ The M.Sc. Scientific Computing program consists of courses drawn from three facu
 
 This repository is **not officially affiliated** with Heidelberg University or the Scientific Computing program coordination. Always verify critical information (credit counts, registration deadlines, validity) with the official coordinator:
 
-**Dr. M. Winckler** — Program Coordinator, Scientific Computing  
-Contact via the [IWR website](https://www.iwr.uni-heidelberg.de)
+**Dr. M. Winckler** — Program Coordinator, Scientific Computing 
+
+Contact via the [mastersc email](mastersc@iwr.uni-heidelberg.de )
 
 ---
 
