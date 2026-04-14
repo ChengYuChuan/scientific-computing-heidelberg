@@ -54,3 +54,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. In short:
 |---|---|---|
 | 2025-04 | Initial course list created from program spreadsheet | [ChengYuChuan](https://github.com/ChengYuChuan) |
 
+---
+
+## Using tag in Heico for filtering Scientific Computing
+
+### Step 1
+![Step 1](images/Tag1.png)
+### Step 2
+![Step 2](images/Tag2.png)
