@@ -25,7 +25,9 @@ The M.Sc. Scientific Computing program consists of courses drawn from three facu
 - **Faculty of Physics and Astronomy** — Application Area: Physics
 - **IWR / Interdisciplinary Center for Scientific Computing** — Simulation methods
 
-Official study regulations: [Heico](https://heico.uni-heidelberg.de/heiCO/)
+[Module Handbook (updated on 2022.02.09)](https://backend.uni-heidelberg.de/en/documents/modulhandbuch-scientific-computing-ma-2022-02-09/download)
+
+[Examination Rules and Regulations (DE) (updated on 2022.10.05)](https://backend.uni-heidelberg.de/de/dokumente/pruefungsordnung-scientific-computing-ma-2022-10-05/download)
 
 ---
 
