@@ -56,7 +56,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. In short:
 
 ---
 
-## Using tag in Heico for filtering Scientific Computing
+## Using tag in Heico for filtering courses in Scientific Computing
 
 ### Step 1
 ![Step 1](images/Tag1.png)
